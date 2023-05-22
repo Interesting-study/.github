@@ -54,4 +54,17 @@
 ![TDD](https://img.shields.io/badge/-TDD-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Design Pattern](https://img.shields.io/badge/Design&nbsp;Pattern-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 
+
+
+
+## 스터디
+
+<div>
+  
+[알고리즘 스터디](https://github.com/gro-w-up) : (22.12.07 ~ 23.02.14, 8주)        
+[디자인 패턴](https://github.com/Interesting-study/design-pattern-to-kotlin) : (23.05.10 ~ 현재)
+   
+
+  
+  
 </div>
