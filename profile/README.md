@@ -66,7 +66,7 @@
 <div>
   
 [알고리즘 스터디](https://github.com/gro-w-up) : (22.12.07 ~ 23.02.14, 8주)        
-[디자인 패턴](https://github.com/Interesting-study/design-pattern-to-kotlin) : (23.05.10 ~ 현재)
+[디자인 패턴](https://github.com/Interesting-study/design-pattern-to-kotlin.git) : (23.05.10 ~ 현재)
    
 
   
